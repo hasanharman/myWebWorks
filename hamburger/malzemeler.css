@@ -1,0 +1,41 @@
+.ustekmek {
+    height: 60px;
+    width: 50%;
+    background: #c99543;
+    border-radius: 80px 80px 20px 20px;
+}
+.domat {
+    height: 15px;
+    width: 40%;
+    background: #dd3710;
+}
+.marul {
+    height: 10px;
+    width: 45%;
+    background: greenyellow;
+    border-radius: 20%;
+    border-top: dotted 20px rgba(255,255,255,0.2);
+}
+.et {
+    height: 25px;
+    width: 45%;
+    background: #ad370b;
+    border-radius: 20%;
+}
+.tursu {
+  height: 15px;
+  width: 35%;
+  background: green;
+  border-radius: 40%;
+}
+.altekmek {
+  height: 40px;
+  width: 50%;
+  background: #c99543;
+  border-radius: 20px 20px 80px 80px;
+}
+.sogan {
+  width: 40%;
+  background-color: #a039bf;
+  border-top: dotted 20px rgba(255, 255, 255, .2);
+}
